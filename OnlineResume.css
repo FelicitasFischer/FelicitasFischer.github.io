@@ -7,7 +7,7 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 
 body { margin: 0; font-size: 13px; line-height: 1.231; }
 
-body, button, input, select, textarea { font-family: sans-serif; color: #222; }
+body, button, input, select, textarea { font-family: sans-serif; color: pink; }
 
 a { color: #00e; }
 a:visited { }
@@ -37,7 +37,7 @@ a clean header font
 
 }
 @font-face {
-    font-family: 'Callibri';
+    font-family: 'OpenSans-Bold';
     src: url('opensans-bold-webfont.eot');
     src: url('opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('opensans-bold-webfont.woff') format('woff'),
