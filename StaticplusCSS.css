@@ -13,5 +13,11 @@ p { font: lucida;
     }
 h2 { font-size:25;
      font-family:"Times New Roman", Times;}
-         
-         
+h3 {font-size:50;
+    color: red;}
+h4 {font-size: 75;
+    font-style:italic;}
+h5 {font-size: 15;
+    font: serif;}
+h6 {font-size: 150;
+    color:green;}
